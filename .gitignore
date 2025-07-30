@@ -1,0 +1,16 @@
+node_modules
+
+# wrangler files
+.wrangler
+.dev.vars*
+.mcp.json
+.env.test
+
+# Editor-specific files
+.cursor/
+
+# Python
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
